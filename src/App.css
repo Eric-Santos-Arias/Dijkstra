@@ -1,0 +1,138 @@
+.main-container{
+    width: 80%;
+    height: 60vh;
+    margin: 0 auto;
+}
+.node{
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    background-color: blue;
+    color: black;
+    text-align: center;
+    line-height: 75px;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+.arista{
+    width: 200px;
+    border: 1px solid black;
+}
+
+.node1{
+    position: relative;
+    left: 400px;
+    top: 400px
+}
+.node2{
+    position: relative;
+    left: 400px;
+    
+}
+.node3{
+    position: relative;
+    left: 600px;
+    top: 55px;
+}
+
+.node4{
+    position: relative;
+    left: 810px;
+    bottom: 140px;
+}
+.node5{
+    position: relative;
+    left: 800px;
+    top: 50px;
+
+}
+
+
+.arista1{
+    position: relative;
+    left: 325px;
+    rotate: 90deg;
+    bottom: 100px;
+    width: 215px;
+}
+
+.arista2{
+    position: relative;
+    left: 450px;
+    rotate: -45deg;
+    width: 180px;
+    bottom: 40px;
+}
+.arista3{
+    position: relative;
+    left: 460px;
+    rotate: 35deg;
+    width: 150px;
+    bottom: 200px;
+}
+.arista4{
+    position: relative;
+    left: 475px;
+    rotate: 0deg;
+    width: 325px;
+    bottom: 255px;
+}
+
+.arista5{
+    position: relative;
+    left: 750px;
+    rotate: 90deg;
+    bottom: 130px;
+    width: 170px;
+}
+
+.arista6{
+    position: relative;
+    left: 650px;
+    rotate: 40deg;
+    width: 160px;
+    bottom: 65px;
+}
+h1{
+    text-align: center;
+}
+
+.valor-arista1{
+    position: relative;
+    bottom: 150px;
+    left: 415px;
+}
+input{
+    width: 25px;
+    border-radius: 10%;
+    padding: 5px;
+}
+
+.valor-arista2{
+    position: relative;
+    bottom: 225px;
+    left: 469px;
+}
+.valor-arista3{
+    position: relative;
+    bottom: 70px;
+    left: 449px;
+}
+.valor-arista4{
+    position: relative;
+    bottom: 275px;
+    left: 500px;
+}
+.valor-arista5{
+    position: relative;
+    bottom: 80px;
+    left: 560px;
+}
+
+.valor-arista6{
+    position: relative;
+    bottom: 150px;
+    left: 624px;
+}

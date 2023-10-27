@@ -98,41 +98,74 @@
 h1{
     text-align: center;
 }
-
-.valor-arista1{
-    position: relative;
-    bottom: 150px;
-    left: 415px;
-}
 input{
     width: 25px;
     border-radius: 10%;
     padding: 5px;
+
+}
+.valor-arista1{
+    position: relative;
+    bottom: 150px;
+    left: 408px;
 }
 
 .valor-arista2{
     position: relative;
     bottom: 225px;
-    left: 469px;
+    left: 449px;
 }
 .valor-arista3{
     position: relative;
     bottom: 70px;
-    left: 449px;
+    left: 415px;
 }
 .valor-arista4{
     position: relative;
     bottom: 275px;
-    left: 500px;
+    left: 460px;
 }
 .valor-arista5{
     position: relative;
     bottom: 80px;
-    left: 560px;
+    left: 490px;
 }
 
 .valor-arista6{
     position: relative;
     bottom: 150px;
-    left: 624px;
+    left: 544px;
+}
+.color{
+    border: 2px solid  red;
+    height: -1px;
+}
+label{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+h2{
+    text-align: center;
+}
+.width{
+    width: 40px;
+}
+
+.logo{
+    position: absolute;
+    width: 150px;
+    left: 50px;
+}
+header{
+    width: 80%;
+    height: 150px;
+    text-align: center;
+    margin: 0 auto;
+}
+h3{
+    color: rgb(74, 121, 209);
+}
+.camino-corto{
+    color: red
 }

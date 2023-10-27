@@ -1,0 +1,37 @@
+.main-container1{
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+    
+}
+
+.error{
+    background-color: red;
+    color: white;
+    margin-left: 10px;
+    width: 80px;
+}
+
+.normal{
+    background-color: white;
+    color: black;
+    margin-left: 10px;
+    width: 80px;
+}
+button{
+    margin-left: 50px;
+    margin-top: 30px;
+    background-color: blue;
+    padding: 20px;
+    border: none;
+    color: white;
+    font-weight: bolder;
+}
+.euclides{
+    background-color: rgba(178, 214, 243, 0.234);
+    width: 50%;
+    height: 500px;
+    border-radius: 50px;
+    margin: 50px auto;
+
+}

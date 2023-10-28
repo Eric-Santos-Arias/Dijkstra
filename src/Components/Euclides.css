@@ -26,6 +26,7 @@ button{
     border: none;
     color: white;
     font-weight: bolder;
+    font-size: 20px;
 }
 .euclides{
     background-color: rgba(178, 214, 243, 0.234);

@@ -108,7 +108,7 @@ function Dijkstra() {
   return (
     <div>
      <header>
-      <img className="logo" src="../public/umg.png" alt="no hay imagen"/>
+      <img className="logo" src="/umg.png" alt="no hay imagen"/>
       <h1>Proyecto Matematica Discreta</h1>
       <h3>Eric Santos - 9490-23-22679</h3>
      </header>
